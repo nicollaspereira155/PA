@@ -18,7 +18,7 @@ public class Exercicio1 {
 		}
 
 		for (i = 0; i < TAM; i++) {
-			System.out.print(b[i] + " ");
+			System.out.println(b[i] + " - É o resultado do quadrado do " + (i + 1) + "° número");
 		}
 
 	}
